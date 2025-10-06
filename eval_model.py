@@ -1,8 +1,3 @@
-"""
-Standalone evaluation script for trained RepViT models
-Fixes checkpoint loading issues with PyTorch 2.6+
-"""
-
 import torch
 import argparse
 from pathlib import Path
